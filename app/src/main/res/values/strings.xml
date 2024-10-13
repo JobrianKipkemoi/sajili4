@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sajili App</string>
+    <string name="enter_school_id">Enter School ID</string>
+    <string name="enter_year_of_study">Enter Year of Study</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="unit_registration">Unit Registration</string>
+    <string name="registration_page">Registration Page</string>
+
+    <string name="logo_desc">description</string>
+    <string name="current_student_view_profile">Current student view profile</string>
+    <string name="student_profile">Student Profile</string>
+    <string name="profile_description">profile Description</string>
+    <string name="registration_logo_description">registration logo description</string>
+    <string name="registration">Registration</string>
+
+</resources>
